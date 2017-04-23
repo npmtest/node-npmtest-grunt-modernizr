@@ -1,0 +1,30 @@
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 06:12:09 +0000   180477 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 06:12:09 +0000     2238 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 06:12:09 +0000     1124 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 06:12:09 +0000     1059 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 06:12:09 +0000     2117 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 06:12:09 +0000       72 bytes  bin/grunt-modernizr</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 06:12:09 +0000    76334 bytes  build/modernizr-custom.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 06:12:09 +0000    15268 bytes  lib/build-files/html5shiv-printshiv-3.6.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 06:12:09 +0000    51351 bytes  lib/build-files/modernizr-latest.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 06:12:09 +0000     3840 bytes  lib/build-files/modernizr.load.1.5.4.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 06:12:09 +0000     1560 bytes  lib/helpers/defaults.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 06:12:09 +0000     1679 bytes  lib/helpers/private.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 06:12:09 +0000      193 bytes  lib/modernizr-dev.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 06:12:09 +0000     3036 bytes  package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 06:12:09 +0000      727 bytes  postinstall.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-23 06:12:09 +0000      833 bytes  tasks/modernizr.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-23 06:12:09 +0000      847 bytes  test/css/indented-syntax.sass</tspan>
+<tspan x="10" y="298"> 17.  2017-04-23 06:12:09 +0000      953 bytes  test/css/vanilla.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-23 06:12:09 +0000     1242 bytes  test/gruntfiles/Gruntfile.cssclassprefix.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-23 06:12:09 +0000     1049 bytes  test/gruntfiles/Gruntfile.test.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-23 06:12:09 +0000     1857 bytes  test/js/amd.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-23 06:12:09 +0000     2253 bytes  test/js/vanilla.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-23 06:12:09 +0000     1188 bytes  test/runner.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-23 06:12:09 +0000      671 bytes  test/tests.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-23 06:12:09 +0000     8986 bytes  test/vanilla.js</tspan>
+</text>
+</svg>

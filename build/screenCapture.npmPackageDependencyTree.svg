@@ -1,0 +1,91 @@
+<svg height="1406" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1406" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">16 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-modernizr@1.0.2 </tspan>
+<tspan x="10" y="90">  ├─┬ customizr@1.0.0-alpha </tspan>
+<tspan x="10" y="106">  │ ├── colors@0.6.2 </tspan>
+<tspan x="10" y="122">  │ ├── deep-equal@0.1.2 </tspan>
+<tspan x="10" y="138">  │ ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="154">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="170">  │ │ └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="186">  │ │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="202">  │ │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="218">  │ ├─┬ grunt-legacy-log@0.1.3 </tspan>
+<tspan x="10" y="234">  │ │ ├── grunt-legacy-log-utils@0.1.1 </tspan>
+<tspan x="10" y="250">  │ │ ├── hooker@0.2.3 </tspan>
+<tspan x="10" y="266">  │ │ ├── lodash@2.4.2 </tspan>
+<tspan x="10" y="282">  │ │ └── underscore.string@2.3.3 </tspan>
+<tspan x="10" y="298">  │ ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="314">  │ ├─┬ modernizr@3.5.0 </tspan>
+<tspan x="10" y="330">  │ │ ├─┬ doctrine@1.2.3 </tspan>
+<tspan x="10" y="346">  │ │ │ ├── esutils@2.0.2 </tspan>
+<tspan x="10" y="362">  │ │ │ └── isarray@1.0.0 </tspan>
+<tspan x="10" y="378">  │ │ ├── file@0.2.2 </tspan>
+<tspan x="10" y="394">  │ │ ├── find-parent-dir@0.3.0 </tspan>
+<tspan x="10" y="410">  │ │ ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="426">  │ │ ├── mkdirp@0.5.1 </tspan>
+<tspan x="10" y="442">  │ │ ├─┬ remarkable@1.7.1 </tspan>
+<tspan x="10" y="458">  │ │ │ ├─┬ argparse@0.1.16 </tspan>
+<tspan x="10" y="474">  │ │ │ │ ├── underscore@1.7.0 </tspan>
+<tspan x="10" y="490">  │ │ │ │ └── underscore.string@2.4.0 </tspan>
+<tspan x="10" y="506">  │ │ │ └── autolinker@0.15.3 </tspan>
+<tspan x="10" y="522">  │ │ ├── requirejs@2.1.22 </tspan>
+<tspan x="10" y="538">  │ │ └─┬ yargs@7.0.2 </tspan>
+<tspan x="10" y="554">  │ │   ├── camelcase@3.0.0 </tspan>
+<tspan x="10" y="570">  │ │   ├─┬ cliui@3.2.0 </tspan>
+<tspan x="10" y="586">  │ │   │ ├─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="602">  │ │   │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="618">  │ │   │ └── wrap-ansi@2.1.0 </tspan>
+<tspan x="10" y="634">  │ │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="650">  │ │   ├── get-caller-file@1.0.2 </tspan>
+<tspan x="10" y="666">  │ │   ├─┬ os-locale@1.4.0 </tspan>
+<tspan x="10" y="682">  │ │   │ └─┬ lcid@1.0.0 </tspan>
+<tspan x="10" y="698">  │ │   │   └── invert-kv@1.0.0 </tspan>
+<tspan x="10" y="714">  │ │   ├─┬ read-pkg-up@1.0.1 </tspan>
+<tspan x="10" y="730">  │ │   │ ├─┬ find-up@1.1.2 </tspan>
+<tspan x="10" y="746">  │ │   │ │ ├── path-exists@2.1.0 </tspan>
+<tspan x="10" y="762">  │ │   │ │ └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="778">  │ │   │ │   └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="794">  │ │   │ └─┬ read-pkg@1.1.0 </tspan>
+<tspan x="10" y="810">  │ │   │   ├─┬ load-json-file@1.1.0 </tspan>
+<tspan x="10" y="826">  │ │   │   │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="842">  │ │   │   │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="858">  │ │   │   │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="874">  │ │   │   │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="890">  │ │   │   │ ├── pify@2.3.0 </tspan>
+<tspan x="10" y="906">  │ │   │   │ └─┬ strip-bom@2.0.0 </tspan>
+<tspan x="10" y="922">  │ │   │   │   └── is-utf8@0.2.1 </tspan>
+<tspan x="10" y="938">  │ │   │   ├─┬ normalize-package-data@2.3.8 </tspan>
+<tspan x="10" y="954">  │ │   │   │ ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="970">  │ │   │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="986">  │ │   │   │ │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="1002">  │ │   │   │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="1018">  │ │   │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="1034">  │ │   │   │   ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="1050">  │ │   │   │   │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="1066">  │ │   │   │   └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="1082">  │ │   │   └── path-type@1.1.0 </tspan>
+<tspan x="10" y="1098">  │ │   ├── require-directory@2.1.1 </tspan>
+<tspan x="10" y="1114">  │ │   ├── require-main-filename@1.0.1 </tspan>
+<tspan x="10" y="1130">  │ │   ├── set-blocking@2.0.0 </tspan>
+<tspan x="10" y="1146">  │ │   ├─┬ string-width@1.0.2 </tspan>
+<tspan x="10" y="1162">  │ │   │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="1178">  │ │   │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="1194">  │ │   │   └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="1210">  │ │   ├── which-module@1.0.0 </tspan>
+<tspan x="10" y="1226">  │ │   ├── y18n@3.2.1 </tspan>
+<tspan x="10" y="1242">  │ │   └── yargs-parser@5.0.0 </tspan>
+<tspan x="10" y="1258">  │ ├─┬ nopt@2.1.2 </tspan>
+<tspan x="10" y="1274">  │ │ └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="1290">  │ ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="1306">  │ │ ├── minimist@0.0.8 </tspan>
+<tspan x="10" y="1322">  │ │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="1338">  │ ├── promised-io@0.3.5 </tspan>
+<tspan x="10" y="1354">  │ ├── underscore@1.5.2 </tspan>
+<tspan x="10" y="1370">  │ └── win-spawn@2.0.0 </tspan>
+<tspan x="10" y="1386">  └── lodash.merge@4.6.0</tspan>
+</text>
+</svg>
